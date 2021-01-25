@@ -15,6 +15,7 @@ Criando projeto para consultar a previsão do tempo via API, feito com acompanha
 ## 🛠 Linguagens:
 
 * Angular
+* TypeScript 
 
 
 
